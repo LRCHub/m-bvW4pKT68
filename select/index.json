@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サイエンス（feat. 重音テト）",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-20T22:19:47.347759Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイエンス (feat. 重音テト)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_サイエンス_(feat._重音テト)_MIMI.txt"
+    }
+  ]
+}
